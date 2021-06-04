@@ -1,0 +1,2 @@
+pandas >= 1.1.5
+environs >= 9.3.2
